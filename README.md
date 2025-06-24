@@ -59,7 +59,7 @@ I've worked with clients from Pakistan to the US, helping optimize inventory, vi
 ### 💼 Experience Highlights
 
 - **Liberty Books (Data Analyst)**: Built enterprise dashboards and deployed SSIS pipeline, reducing stockouts by 30–40%.
-- **Marketlytics (Data & AI Intern)**: Delivered US-based marketing dashboards with BigQuery & GA4; optimized dashboard speed by 80%.
+- **MarketLytics (Data & AI Intern)**: Delivered US-based marketing dashboards with BigQuery & GA4; optimized dashboard speed by 80%.
 - **Excelerate (Virtual Intern)**: Analyzed 11 Facebook campaigns, boosting marketing ROI for GlobalShala's Superhero U event.
 
 ---
